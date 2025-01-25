@@ -1,5 +1,5 @@
 # bubbleSort
-,,,
+```
 constand MAX is max length of array
 function sort (array):
   create integer variables i and j
@@ -9,4 +9,4 @@ function sort (array):
       printArray(array)
 
 Code should be able to sort the numbers (1-9) correctly while also printing out an array after every run through.
-,,,
+```
